@@ -22,7 +22,8 @@ url: "https://ossd-s25.github.io"
 baseurl: "/LuHC409-weekly"
 
 # Permalink structure for posts
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
