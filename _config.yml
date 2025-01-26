@@ -17,8 +17,9 @@ footer-links:
   linkedin: Haocheng Lu
 
 # Your website URL
-url: "https://github.com/ossd-s25/LuHC409-weekly"
-baseurl: "/weekly"
+url: "https://ossd-s25.github.io"
+baseurl: "/LuHC409-weekly"
+
 
 # Permalink structure for posts
 permalink: /:title/
