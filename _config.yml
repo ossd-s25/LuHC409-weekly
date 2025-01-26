@@ -4,8 +4,9 @@ name: Haocheng Lu
 # Short bio or description about you (displayed in the header)
 description: Junior Computer Science Student at NYU Shanghai, Spring 2025
 
+
 # URL of your avatar or profile pic
-avatar: /weekly/images/icon.png
+avatar: /LuHC409-weekly/images/icon.png
 avatar_alt_text: Avatar
 
 # Use this separator in your blogs to indicate where the abbreviated part ends and the "Read more ..." link appears
@@ -19,7 +20,6 @@ footer-links:
 # Your website URL
 url: "https://ossd-s25.github.io"
 baseurl: "/LuHC409-weekly"
-
 
 # Permalink structure for posts
 permalink: /:title/
