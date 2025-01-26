@@ -14,8 +14,8 @@ excerpt_separator: <!--more-->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: ossd-s25
-  linkedin: Haocheng Lu
+  github: https://github.com/ossd-s25/LuHC409
+
 
 # Your website URL
 url: "https://ossd-s25.github.io"
