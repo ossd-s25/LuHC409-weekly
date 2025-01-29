@@ -17,4 +17,4 @@ Replace the first row with your own contribution.
 
 | Date        | Contribution (Link)  | Type  | Description |
 |-------------|:---------------------|:------|:------------|
-| N/A         | N/A                  | N/A   | I have not contributed to open source projects yet but look forward to making meaningful contributions in the future. |
+| 2025/1/29        | link to my contribution[https://github.com/joannakl/ossd/pull/137]                  | course website   |  Upload one of the missing book covers |
