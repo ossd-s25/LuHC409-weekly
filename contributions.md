@@ -21,5 +21,6 @@ Replace the first row with your own contribution.
 
 | 2025/1/29        | [link to my contribution]https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/HaochengLu                  | Whikepedia edit   | Based on class reading, I completed the missing license info on Chinese wiki |
 
+| 2025/1/31        | [link to my contribution]https://github.com/ossd-s25/LuluZhuu-weekly/issues/1                  | Blog   | Report An issue for classmates's blog |
 
-
+https://github.com/ossd-s25/LuluZhuu-weekly/issues/1
