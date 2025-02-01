@@ -17,4 +17,4 @@ Replace the first row with your own contribution.
 
 | Date        | Contribution (Link)  | Type  | Description |
 |-------------|:---------------------|:------|:------------|
-| 2025/1/29        | link to my contribution[https://github.com/joannakl/ossd/pull/137]                  | course website   |  Upload one of the missing book covers |
+| 2025/1/29        | [link to my contribution]https://github.com/joannakl/ossd/pull/137                  | course website   |  Upload one of the missing book covers |
