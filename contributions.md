@@ -18,3 +18,8 @@ Replace the first row with your own contribution.
 | Date        | Contribution (Link)  | Type  | Description |
 |-------------|:---------------------|:------|:------------|
 | 2025/1/29        | [link to my contribution]https://github.com/joannakl/ossd/pull/137                  | course website   |  Upload one of the missing book covers |
+
+| 2025/1/29        | [link to my contribution]https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/HaochengLu                  | Whikepedia edit   | Based on class reading, I completed the missing license info on Chinese wiki |
+
+
+
