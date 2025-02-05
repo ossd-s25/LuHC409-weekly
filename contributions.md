@@ -14,8 +14,8 @@ The link should bring us to a public page that shows your contribution.
 
 Replace the first row with your own contribution. 
 -->
-| Date        | Contribution Link  | Type  | Description |
-|-------------|--------------------|--------|-------------|
-| 2025/1/29  | [GitHub PR #137](https://github.com/joannakl/ossd/pull/137) | Course Website | Uploaded one of the missing book covers |
-| 2025/1/29  | [Wikipedia Edits](https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/HaochengLu) | Wikipedia Edit | Based on class reading, I completed the missing license info on Chinese Wiki |
-| 2025/1/31  | [Issue Report](https://github.com/ossd-s25/LuluZhuu-weekly/issues/1) | Blog | Reported an issue for a classmate's blog |
+| Date #   | Contribution (Link)                                                                                     | Type             | Description                                                   |
+|----------|---------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------|
+| Jan 29   | [GitHub PR #137](https://github.com/joannakl/ossd/pull/137)                                             | Course Website   | Uploaded one of the missing book covers                      |
+| Jan 29   | [Wikipedia Edits](https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/HaochengLu) | Wikipedia Edit   | Based on class reading, I completed the missing license info |
+| Jan 31   | [Issue Report](https://github.com/ossd-s25/LuluZhuu-weekly/issues/1)                                    | Blog             | Reported an issue for a classmate's blog                     |
