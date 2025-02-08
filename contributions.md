@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | Feb 3    | [link to my contribution](#)                                                                            | Course Website          | I fixed a broken link.                                       |
 | Feb 5    | [OpenStreet Map Edition](https://www.openstreetmap.org/user/HaochengLu/history#map=19/40.718263/-74.001341) | OpenStreet Map feature  | Reported 2 missing galleries near my dorm                   |
 | Feb 6    | [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Yellow_Crane_Tower&diff=prev&oldid=1274400760) | Wikipedia Edits  | Added Archtecture description for Yellow Crane Tower                  |
+| Feb 8    | [OpenStreet Map Edition](https://www.openstreetmap.org/changeset/162268851#map=19/40.726177/-73.996824) | OpenStreet Map feature  | Added a missing bank that is missing on the map                   |
