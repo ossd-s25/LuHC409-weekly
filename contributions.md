@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Jan 31   | [Issue Report](https://github.com/ossd-s25/LuluZhuu-weekly/issues/1)                                    | Blog                    | Reported an issue for a classmate's blog                    |
 | Feb 3    | [link to my contribution](#)                                                                            | Course Website          | I fixed a broken link.                                       |
 | Feb 5    | [OpenStreet Map Edition](https://www.openstreetmap.org/user/HaochengLu/history#map=19/40.718263/-74.001341) | OpenStreet Map feature  | Reported 2 missing galleries near my dorm                   |
+| Feb 6    | [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Yellow_Crane_Tower&diff=prev&oldid=1274400760) | Wikipedia Edits  | Added Archtecture description for Yellow Crane Tower                  |
