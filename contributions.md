@@ -29,4 +29,8 @@ Replace the first row with your own contribution.
 | Feb 6    | [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Yellow_Crane_Tower&diff=prev&oldid=1274400760) | Wikipedia Edits  | Added Archtecture description for Yellow Crane Tower                  |
 | Feb 8    | [OpenStreet Map Edition](https://www.openstreetmap.org/changeset/162268851#map=19/40.726177/-73.996824) | OpenStreet Map feature  | Added a missing bank that is missing on the map                   |
 | Feb 10    | [Issue Report](https://github.com/ossd-s25/Ja-Tink-weekly/issues/1) | Blog | Report a broken link  on the blog website                   |
+| Feb 18    | [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Hot_dry_noodles&diff=prev&oldid=1276406301) | Wikipedia Edits | Reviewed the cited sources and updated the cooking method with more detailed and enriched instructions.                   |
 
+
+
+https://en.wikipedia.org/w/index.php?title=Hot_dry_noodles&diff=prev&oldid=1276406301
