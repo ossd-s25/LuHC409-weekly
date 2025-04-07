@@ -32,5 +32,6 @@ Replace the first row with your own contribution.
 | Feb 18    | [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Hot_dry_noodles&diff=prev&oldid=1276406301) | Wikipedia Edits | Reviewed the cited sources and updated the cooking method with more detailed and enriched instructions.                   |
 | April 2  | [Isuue Coding Answer](https://github.com/bevacqua/dragula/issues/688#issuecomment-2773470050) | Coding Question | Answered why example.js and example.min.js do not match                   |
 | April 3  | [Isuue Coding Answer](https://github.com/thomas0809/MolScribe/issues/29) | Coding Question | Answered how to set envrionment                   |
+| April 3  | [Isuue Coding Answer](https://github.com/thomas0809/MolScribe/issues/30) | Coding Question | Answered Problem with color-highlighted image                  |
 
 
