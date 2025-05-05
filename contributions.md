@@ -34,5 +34,5 @@ Replace the first row with your own contribution.
 | April 3  | [Isuue Coding Answer](https://github.com/thomas0809/MolScribe/issues/29) | Coding Question | Answered how to set envrionment                   |
 | April 3  | [Isuue Coding Answer](https://github.com/thomas0809/MolScribe/issues/30) | Coding Question | Answered Problem with color-highlighted image                  |
 | April 18  | [Github PR](https://github.com/bastienlc/pdf-watermark/pull/14) | Pull Request| add chinese txt into watermark                  |
-
+| May 3  | [Issue Report](https://github.com/LuHC409/chinaxivCrawler_mnbvc/issues/1) | Github Issue| Locally reproduced the project, discovered a bug, and explained its cause                 |
 
