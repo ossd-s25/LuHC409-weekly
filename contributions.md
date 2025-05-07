@@ -35,4 +35,6 @@ Replace the first row with your own contribution.
 | April 3  | [Isuue Coding Answer](https://github.com/thomas0809/MolScribe/issues/30) | Coding Question | Answered Problem with color-highlighted image                  |
 | April 18  | [Github PR](https://github.com/bastienlc/pdf-watermark/pull/14) | Pull Request| add chinese txt into watermark                  |
 | May 3  | [Issue Report](https://github.com/LuHC409/chinaxivCrawler_mnbvc/issues/1) | Github Issue| Locally reproduced the project, discovered a bug, and explained its cause                 |
+| May 6 | [EssayPaperReading](https://github.com/LuHC409/EssayPaperReading/tree/main/papers) | Open‑source Project | Read and summarized 6 research papers in 6 comprehensive documents over one month to accelerate understanding of each study |
+| May 6 | [Github PR](https://github.com/yzane/vscode-markdown-pdf/pull/409) | Github PR | Add Format-Specific Code Highlighting Stylesnew change |
 
